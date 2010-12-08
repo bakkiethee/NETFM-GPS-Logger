@@ -1,0 +1,35 @@
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\obj\Debug\FEZ_Domino_Application2.Resources.resources
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\obj\Debug\FEZ_Domino_Application2.Resources.tinyresources
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\obj\Debug\TinyResGen.cache
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\bin\Debug\le\FEZ Domino Application.exe
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\bin\Debug\be\FEZ Domino Application.exe
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\bin\Debug\le\FEZ Domino Application.pdb
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\bin\Debug\be\FEZ Domino Application.pdb
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\bin\Debug\FEZ Domino Application.exe
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\bin\Debug\FEZ Domino Application.pdb
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\bin\Debug\le\FEZ Domino Application.pe
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\bin\Debug\le\FEZ Domino Application.pdbx
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\bin\Debug\be\FEZ Domino Application.pe
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\bin\Debug\be\FEZ Domino Application.pdbx
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\bin\Debug\LE\GHIElectronics.NETMF.IO.pe
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\bin\Debug\BE\GHIElectronics.NETMF.IO.pe
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\bin\Debug\LE\GHIElectronics.NETMF.IO.pdbx
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\bin\Debug\BE\GHIElectronics.NETMF.IO.pdbx
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\bin\Debug\GHIElectronics.NETMF.IO.dll
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\bin\Debug\GHIElectronics.NETMF.System.dll
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\bin\Debug\GHIElectronics.NETMF.IO.xml
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\bin\Debug\GHIElectronics.NETMF.System.xml
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\obj\Debug\be\FEZ Domino Application.pe
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\obj\Debug\be\FEZ Domino Application.pdbx
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\obj\Debug\le\FEZ Domino Application.pe
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\obj\Debug\le\FEZ Domino Application.pdbx
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\obj\Debug\FEZ Domino Application.exe
+C:\Users\Dev\AppData\Local\Temporary Projects\FEZ Domino Application2\obj\Debug\FEZ Domino Application.pdb
